@@ -1,6 +1,3 @@
-import streamlit as st
-pip install streamlit
-
 # you will be able to see the title with the given content
 st.title('Welcome to Evoke Technologies')
 
